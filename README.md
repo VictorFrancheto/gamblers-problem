@@ -1,5 +1,11 @@
 # Gamblers_Problem
-A player pays 5 dollars to participate in a dice game, competing with an opponent to see who has the higher score.
+
+A player pays 5 dollars to participate in a dice game, competing against an opponent to see who rolls the higher number. Both the player and the opponent each roll a die, and the following prize rules are established:
+
+- **If the player's roll is higher**, they win twice the difference between their roll and the opponent's.
+- **If the player's roll is equal to or lower than the opponent's**, they win nothing.
+
+What do you think of this game? Is it worthwhile for the player?
 
 <p align="center">
   <img src="https://github.com/VictorFrancheto/Gamblers_Problem/blob/main/gambler.JPG">
