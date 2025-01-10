@@ -2,7 +2,7 @@
 A player pays 5 dollars to participate in a dice game, competing with an opponent to see who has the higher score.
 
 <p align="center">
-  <img src="https://github.com/VictorFrancheto/Gamblers_Problem/blob/main/gambler.jpg">
+  <img src="https://github.com/VictorFrancheto/Gamblers_Problem/blob/main/gambler.JPG">
 </p>
 
 # Victor Hugo Francheto
