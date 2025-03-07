@@ -8,7 +8,7 @@ A player pays 5 dollars to participate in a dice game, competing against an oppo
 What do you think of this game? Is it worthwhile for the player?
 
 <p align="center">
-  <img src="https://github.com/VictorFrancheto/Gamblers_Problem/blob/main/gambler.JPG">
+  <img src="https://github.com/VictorFrancheto/Gamblers_Problem/blob/main/image.JPG">
 </p>
 
 # Victor Hugo Francheto
